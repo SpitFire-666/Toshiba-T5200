@@ -53,3 +53,13 @@ Quite often in these screens this may be a "cold solder" ( https://en.wikipedia.
 # Fans / Cooling
 
 3x 4cm x 2cm 12v dumb fans 
+
+# Rear Expansion Slot
+
+Connector made by KEL and 3m makes compatible connectors as well. Part numbers: KEL 8801-060-170L-F or 3M P50-060S-RR1-EA 
+
+ https://www.reddit.com/r/retrobattlestations/comments/j06u3i/i_finally_finished_my_cf_card_adapter_for_toshiba/ 
+
+ 
+
+ 
