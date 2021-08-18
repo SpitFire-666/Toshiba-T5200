@@ -9,6 +9,11 @@ P/N: 5200-0010
 
 ![image](https://user-images.githubusercontent.com/38451588/129731131-282254ee-aae3-4a3a-9ddc-ed9c00d45409.png)
 
+### Components
+
+PC001, PC002: 0N3105
+
+
 
 # BIOS
 
