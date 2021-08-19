@@ -30,9 +30,18 @@ PC001, PC002: 0N3105
 
 1x 30 PIN SIMM (Parity), optional 
 
- 
+![image](https://user-images.githubusercontent.com/38451588/130006005-8cf8ff80-3ef5-4474-afec-e8a421e00806.png)
 
  
+### Modules
+
+
+| Make | Part No | Capacity | Chips | Notes |
+|-|-|-|-|-|
+| OKI | | 1MB? | 9B9Z, M5I4256A-80J. M5IC256-80, 043033 | "TLM-5200-1M" marking on rear |
+| Toshiba | ||||
+| Toshiba | ||||
+
 
 RAM types appear to be the same as the Toshiba T8500 desktop PC and Acer 735C.  
 
@@ -112,5 +121,7 @@ Connector made by KEL and 3m makes compatible connectors as well. Part numbers: 
  https://www.reddit.com/r/retrobattlestations/comments/j06u3i/i_finally_finished_my_cf_card_adapter_for_toshiba/ 
 
  
+# Links
 
+http://www.le-grenier-informatique.fr/pages/les-telechargements/utilitaires.html
  
