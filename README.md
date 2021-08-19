@@ -24,6 +24,51 @@ PC001, PC002: 0N3105
 
 # Memory (RAM)
 
+### Slots
+
+6x 40 PIN SIMM 
+
+1x 30 PIN SIMM (Parity), optional 
+
+ 
+
+ 
+
+RAM types appear to be the same as the Toshiba T8500 desktop PC and Acer 735C.  
+
+The T5200 has 2MB of memory soldered on board and an expansion SIMM board with 6 and a half SIMM slots but uses proprietary 40 pin SIMMs. 
+
+ Here are details on a mod to add 8MB of RAM using a standard 72 pin 8MB Parity SIMM. (Requires at least 2MB of proprietary SIMMs already fitted) 
+
+ Use this info at your own risk, don't blame me if you damage your T5200! 
+
+
+https://www.vogons.org/viewtopic.php?f=46&t=57998&start=20 
+
+
+https://www.vogons.org/download/file.php?id=45121&mode=view 
+
+
+IanB, I have Yet Another Question for you: 
+Is there any way around the 14mb RAM limit? 
+In the original PC/XT/AT, you could add an ISA RAM card to expand the memory. Could such a card be plugged into the T5200 with the memory mapped beyond the 14mb limit, providing a theoretically 32 or even 64mb of total RAM? 
+
+ You might be able to use a 16 bit ISA memory expansion board for memory below 16MB but that might not work and would be very slow even if it did. 
+
+ 
+
+Each pair of SIMM slots has a single label on the component side so there are 6 slots but only 3 labels (IS17, IS16 & IS15 - ignoring the short 30 pin slot). The middle pair is IS16 and one slot I have referenced as "A" and the other as "B" although they are not labelled 
+
+
+Web links: 
+
+https://www.iclocator.com/rfq.html/-5405EDC5-0471-4E05-9AC9-37B072077022?pagename=rfq&e=33oueXFqWRA 
+
+ 
+
+https://old.pinouts.ru/Memory/simm_40pin_pinout.shtml 
+
+
 # CPU
 
 # Hard Disk (HDD)
