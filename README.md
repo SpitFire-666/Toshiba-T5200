@@ -80,6 +80,8 @@ https://old.pinouts.ru/Memory/simm_40pin_pinout.shtml
 
 # CPU
 
+# Co-Processor
+
 # Hard Disk (HDD)
 
 # Floppy Disk (FDD)
@@ -113,6 +115,10 @@ Quite often in these screens this may be a "cold solder" ( https://en.wikipedia.
 # Fans / Cooling
 
 3x 4cm x 2cm 12v dumb fans 
+
+# ISA slots
+ - One 16-bit
+ - One 8-bit
 
 # Rear Expansion Slot
 
