@@ -17,6 +17,9 @@ PC001, PC002: 0N3105
 
 # BIOS
 
+### BIOS entry
+
+
 ### BIOS chip
 
 ![image](https://user-images.githubusercontent.com/38451588/129731323-b3285d0e-eee0-4757-96bb-07222fd3d0ee.png)
