@@ -87,6 +87,10 @@ https://old.pinouts.ru/Memory/simm_40pin_pinout.shtml
 
 # Hard Disk (HDD)
 
+
+https://texelec.com/product/lo-tech-xt-cf-lite-rev-2/
+
+
 # Floppy Disk (FDD)
 
 # Display
