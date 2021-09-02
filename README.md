@@ -46,6 +46,9 @@ PC001, PC002: 0N3105
 | Toshiba | ||||
 
 
+![image](https://user-images.githubusercontent.com/38451588/131814713-3a018a9b-c1a4-4653-b876-926c3b7e0334.png)
+
+
 RAM types appear to be the same as the Toshiba T8500 desktop PC and Acer 735C.  
 
 The T5200 has 2MB of memory soldered on board and an expansion SIMM board with 6 and a half SIMM slots but uses proprietary 40 pin SIMMs. 
@@ -60,12 +63,7 @@ https://www.vogons.org/viewtopic.php?f=46&t=57998&start=20
 
 https://www.vogons.org/download/file.php?id=45121&mode=view 
 
-
-IanB, I have Yet Another Question for you: 
-Is there any way around the 14mb RAM limit? 
-In the original PC/XT/AT, you could add an ISA RAM card to expand the memory. Could such a card be plugged into the T5200 with the memory mapped beyond the 14mb limit, providing a theoretically 32 or even 64mb of total RAM? 
-
- You might be able to use a 16 bit ISA memory expansion board for memory below 16MB but that might not work and would be very slow even if it did. 
+You might be able to use a 16 bit ISA memory expansion board for memory below 16MB but that might not work and would be very slow even if it did. 
 
  
 
@@ -83,7 +81,7 @@ https://old.pinouts.ru/Memory/simm_40pin_pinout.shtml
 
 # CPU
 
-# Co-Processor
+# Math Co-Processor
 
 # Hard Disk (HDD)
 
@@ -104,6 +102,8 @@ Gray scales: 16 Contrast: 100 : 1
 
 34 pin plug 
 
+### VGA / Video Card
+
 - You dont really need a video driver for your Paradise PVGA1 (?) because these Toshiba models do have - although indeed having one of the first Paradise SVGA compatible chipsets - only 256kb of video RAM, iirc. which means youre limited to a max of 640x480x16 at max, if I am not mistaken. I have tried installing various drivers for the exact same chipset on my T3200SX without success before realizing that it only has 256kb video RAM. 
 
  
@@ -121,11 +121,11 @@ Quite often in these screens this may be a "cold solder" ( https://en.wikipedia.
 
 # Fans / Cooling
 
-3x 4cm x 2cm 12v dumb fans 
+- 3x 4cm x 2cm 12v dumb fans 
 
 # ISA slots
- - One 16-bit
- - One 8-bit
+ - One 16-bit (top)
+ - One 8-bit (bottom)
 
 # Rear Expansion Slot
 
