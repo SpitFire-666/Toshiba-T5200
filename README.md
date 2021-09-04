@@ -27,6 +27,12 @@ PC001, PC002: 0N3105
 
 # Memory (RAM)
 
+### Memory board
+
+![image](https://user-images.githubusercontent.com/38451588/132091941-90e3593b-97c7-41dc-ae5d-c5e213af373b.png)
+
+
+
 ### Slots
 
 6x 40 PIN SIMM 
@@ -37,6 +43,9 @@ PC001, PC002: 0N3105
 
  
 ### Modules
+
+
+https://www.winhistory-forum.net/showthread.php?pid=267370
 
 
 | Make | Part No | Capacity | Chips | Notes |
