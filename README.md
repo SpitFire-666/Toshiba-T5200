@@ -90,6 +90,8 @@ https://old.pinouts.ru/Memory/simm_40pin_pinout.shtml
 
 # CPU
 
+132-pin PGA
+
 # Math Co-Processor
 
 # Hard Disk (HDD)
