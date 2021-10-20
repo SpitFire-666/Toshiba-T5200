@@ -60,7 +60,7 @@ https://www.winhistory-forum.net/showthread.php?pid=267370
 
 RAM types appear to be the same as the Toshiba T8500 desktop PC and Acer 735C.  
 
-The T5200 has 2MB of memory soldered on board and an expansion SIMM board with 6 and a half SIMM slots but uses proprietary 40 pin SIMMs. 
+The T5200 has 1MB of memory soldered on board and an expansion SIMM board with 6 and a half SIMM slots but uses proprietary 40 pin SIMMs. 
 
  Here are details on a mod to add 8MB of RAM using a standard 72 pin 8MB Parity SIMM. (Requires at least 2MB of proprietary SIMMs already fitted) 
 
@@ -94,9 +94,12 @@ https://old.pinouts.ru/Memory/simm_40pin_pinout.shtml
 
 # Math Co-Processor
 
+![image](https://user-images.githubusercontent.com/38451588/138083051-54b49b0b-7ac3-44ec-b2b5-11dccef7f51e.png)
+
+
 # Hard Disk (HDD)
 
- replacement drive must be the same model or the 100Mb version - it must match the CHS setting in the BIOS and it's model number must start with CP (Conner Peripherals).
+- Replacement drive must match one of the 3 approved conner HDDs - it must match the CHS setting in the BIOS and it's model number must start with CP (Conner Peripherals).
  
  Options:
 - fire up the T5200 and go in to the BIOS setup and see what hard drive options you have - write them down - and buy a matching Conner CP series IDE drive.
@@ -105,8 +108,10 @@ https://old.pinouts.ru/Memory/simm_40pin_pinout.shtml
 
  Drive Overlay software is a program that sits in the boot sector and reconfigures the drive before DOS starts.
  
-  Connor CP-344
-Conner CP-3104 (100MB):  
+## Connor CP-344
+  
+## Conner CP-3104 (100MB):  
+
   ![image](https://user-images.githubusercontent.com/38451588/138080146-abbab5ef-eec3-4edc-b8d1-839683fb0211.png)
 
 
@@ -128,6 +133,8 @@ Gray scales: 16 Contrast: 100 : 1
 
 ### VGA / Video Card
 
+![image](https://user-images.githubusercontent.com/38451588/138082616-0a46b4bf-1432-4946-92b2-cd6db4440687.png)
+
 - You dont really need a video driver for your Paradise PVGA1 (?) because these Toshiba models do have - although indeed having one of the first Paradise SVGA compatible chipsets - only 256kb of video RAM, iirc. which means youre limited to a max of 640x480x16 at max, if I am not mistaken. I have tried installing various drivers for the exact same chipset on my T3200SX without success before realizing that it only has 256kb video RAM. 
 
  
@@ -140,6 +147,11 @@ there is a single line vertical artifact on screen.
 
 Quite often in these screens this may be a "cold solder" ( https://en.wikipedia.org/wiki/Soldering#Electronics ). You can try to check these "fat" solders on top of the screen - every now and then one of them can be repaired. 
  
+
+## I/O
+
+![image](https://user-images.githubusercontent.com/38451588/138082561-74206daf-6a7a-4af4-8532-e851730fa627.png)
+
 
 # Combination Lock
 
