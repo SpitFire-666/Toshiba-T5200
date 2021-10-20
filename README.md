@@ -96,6 +96,19 @@ https://old.pinouts.ru/Memory/simm_40pin_pinout.shtml
 
 # Hard Disk (HDD)
 
+ replacement drive must be the same model or the 100Mb version - it must match the CHS setting in the BIOS and it's model number must start with CP (Conner Peripherals).
+ 
+ Options:
+- fire up the T5200 and go in to the BIOS setup and see what hard drive options you have - write them down - and buy a matching Conner CP series IDE drive.
+- write the AT version of XTIDE to a boot ROM and configure it in a network card, set the T5200 to no hard drive, and install any generic IDE hard drive.
+- find another Conner IDE drive and ask someone on here to hack the ROM, then burn the new ROM and replace the one on your motherboard (or maybe get away with drive overlay software)
+
+ Drive Overlay software is a program that sits in the boot sector and reconfigures the drive before DOS starts.
+ 
+  Connor CP-344
+Conner CP-3104 (100MB):  
+  ![image](https://user-images.githubusercontent.com/38451588/138080146-abbab5ef-eec3-4edc-b8d1-839683fb0211.png)
+
 
 https://texelec.com/product/lo-tech-xt-cf-lite-rev-2/
 
