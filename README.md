@@ -150,6 +150,8 @@ Quite often in these screens this may be a "cold solder" ( https://en.wikipedia.
 
 ## I/O
 
+- Note - system will not start without this card present.
+
 ![image](https://user-images.githubusercontent.com/38451588/138082561-74206daf-6a7a-4af4-8532-e851730fa627.png)
 
 
