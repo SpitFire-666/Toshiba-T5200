@@ -19,6 +19,8 @@ PC001, PC002: 0N3105
 
 ### BIOS entry
 
+https://xtideuniversalbios.org/
+
 
 ### BIOS chip
 
