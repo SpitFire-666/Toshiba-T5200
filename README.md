@@ -44,17 +44,16 @@ https://xtideuniversalbios.org/
 ![image](https://user-images.githubusercontent.com/38451588/130006005-8cf8ff80-3ef5-4474-afec-e8a421e00806.png)
 
  
-### Modules
+### SIMMs
+
+Front and back of 4 different modules:
+
+![image](https://user-images.githubusercontent.com/38451588/141056903-9fdc0ed4-73e3-4f66-aff3-88474bef04b4.png)
+![image](https://user-images.githubusercontent.com/38451588/141056919-16e454e6-6690-42c8-8613-7935e063f799.png)
+
 
 
 https://www.winhistory-forum.net/showthread.php?pid=267370
-
-
-| Make | Part No | Capacity | Chips | Notes |
-|-|-|-|-|-|
-| OKI | | 1MB? | 9B9Z, M5I4256A-80J. M5IC256-80, 043033 | "TLM-5200-1M" marking on rear |
-| Toshiba | ||||
-| Toshiba | ||||
 
 
 ![image](https://user-images.githubusercontent.com/38451588/131814713-3a018a9b-c1a4-4653-b876-926c3b7e0334.png)
@@ -88,6 +87,11 @@ https://www.iclocator.com/rfq.html/-5405EDC5-0471-4E05-9AC9-37B072077022?pagenam
  
 
 https://old.pinouts.ru/Memory/simm_40pin_pinout.shtml 
+
+# Motherboard/Mainboard
+
+![image](https://user-images.githubusercontent.com/38451588/141057266-ca2b497e-8d77-43d9-920a-48ec93dd3af8.png)
+
 
 
 # CPU
