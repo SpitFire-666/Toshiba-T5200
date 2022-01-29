@@ -152,7 +152,11 @@ you can fit a 33Mhz or 40Mhz upgrade CPU in the T5200, it will just run at 20Mhz
 ## Conner CP-3204F (200MB):
 
 
-## HDD upgrades 
+## HDD upgrades/mods
+
+https://conventionalmemories.com/wiki_cm/CF_adapter_for_Toshiba_portables
+
+https://conventionalmemories.com/wiki_cm/3inONEder_for_Toshiba_portables
 
 https://texelec.com/product/lo-tech-xt-cf-lite-rev-2/
 
