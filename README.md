@@ -1,3 +1,7 @@
+# TOSHIBA T5200 
+
+## Info, data, pics, tips etc
+
 ![image](https://user-images.githubusercontent.com/38451588/129733966-22ee7865-65f6-43b2-9c47-891b78e0b54f.png)
 
 
@@ -18,10 +22,10 @@ P/N: 5200-0010
 PC001, PC002: 0N3105
 
 
-
 # BIOS
 
 ### BIOS entry
+
 
 https://xtideuniversalbios.org/
 
@@ -32,6 +36,12 @@ https://xtideuniversalbios.org/
 
 
 # Memory (RAM)
+
+A maximum of 16MB is supported (but I've only seen up to 14MB).
+
+The T5200 has 1MB of memory soldered on board and an expansion SIMM board with 6 and a half SIMM slots which uses proprietary 40 pin SIMMs. 
+
+RAM types appear to be the same as the Toshiba T8500 desktop PC and Acer 735C.
 
 ### Memory board
 
@@ -55,17 +65,15 @@ Front and back of 4 different modules:
 ![image](https://user-images.githubusercontent.com/38451588/141056903-9fdc0ed4-73e3-4f66-aff3-88474bef04b4.png)
 ![image](https://user-images.githubusercontent.com/38451588/141056919-16e454e6-6690-42c8-8613-7935e063f799.png)
 
-
-
 https://www.winhistory-forum.net/showthread.php?pid=267370
 
 
 ![image](https://user-images.githubusercontent.com/38451588/131814713-3a018a9b-c1a4-4653-b876-926c3b7e0334.png)
 
 
-RAM types appear to be the same as the Toshiba T8500 desktop PC and Acer 735C.  
 
-The T5200 has 1MB of memory soldered on board and an expansion SIMM board with 6 and a half SIMM slots but uses proprietary 40 pin SIMMs. 
+
+## RAM Mod
 
  Here are details on a mod to add 8MB of RAM using a standard 72 pin 8MB Parity SIMM. (Requires at least 2MB of proprietary SIMMs already fitted) 
 
@@ -100,7 +108,19 @@ https://old.pinouts.ru/Memory/simm_40pin_pinout.shtml
 
 # CPU
 
-132-pin PGA
+- 132-pin PGA i386
+
+## CPU Upgrades
+
+you can fit a 33Mhz or 40Mhz upgrade CPU in the T5200, it will just run at 20Mhz unless it has built in clock doubling. The hardware mods improve the performance of some of the upgrade CPUs but aren't essential and the CPUs will work if you plug them in without any mods albeit with reduced performance. 
+
+ There are four possible 486 compatible CPUs from Cyrix / Texas instruments that can be used to upgrade the T5200s Intel 386 processor (Texas Instruments made the CPUs for Cyrix and sold them under their own brand as well): 
+
+ Be careful when installing, do not confuse PIN 1!!! 
+ 
+
+
+ 
 
 # Math Co-Processor
 
@@ -109,7 +129,9 @@ https://old.pinouts.ru/Memory/simm_40pin_pinout.shtml
 
 # Hard Disk (HDD)
 
-- Replacement drive must match one of the 3 approved conner HDDs - it must match the CHS setting in the BIOS and it's model number must start with CP (Conner Peripherals).
+- Available in 100MB and 200MB (rarer) capacities
+
+- Replacement drive must match one of the 3 approved conner HDDs - it must match the CHS setting in the BIOS and its model number must start with CP (Conner Peripherals).
  
  Options:
 - fire up the T5200 and go in to the BIOS setup and see what hard drive options you have - write them down - and buy a matching Conner CP series IDE drive.
@@ -177,7 +199,7 @@ there is a single line vertical artifact on screen.
 Quite often in these screens this may be a "cold solder" ( https://en.wikipedia.org/wiki/Soldering#Electronics ). You can try to check these "fat" solders on top of the screen - every now and then one of them can be repaired. 
  
 
-## I/O
+## I/O card
 
 - Note - system will not start without this card present.
 
