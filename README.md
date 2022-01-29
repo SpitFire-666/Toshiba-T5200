@@ -1,6 +1,10 @@
 ![image](https://user-images.githubusercontent.com/38451588/129733966-22ee7865-65f6-43b2-9c47-891b78e0b54f.png)
 
 
+# Maintenance Manual
+
+http://www.minuszerodegrees.net/manuals/Toshiba/Other/Toshiba%20T5200%20-%20Maintenance%20Manual.pdf
+
 # Power Supply
 P/N: 5200-0010 
 
