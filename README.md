@@ -140,12 +140,19 @@ you can fit a 33Mhz or 40Mhz upgrade CPU in the T5200, it will just run at 20Mhz
 
  Drive Overlay software is a program that sits in the boot sector and reconfigures the drive before DOS starts.
  
-## Connor CP-344
+## Connor CP-344/CP-3044 (40MB)
+
+![image](https://user-images.githubusercontent.com/38451588/151661736-462e5589-0b63-4672-a2bb-90371464784b.png)
+
   
 ## Conner CP-3104 (100MB):  
 
   ![image](https://user-images.githubusercontent.com/38451588/138080146-abbab5ef-eec3-4edc-b8d1-839683fb0211.png)
 
+## Conner CP-3204F (200MB):
+
+
+## HDD upgrades 
 
 https://texelec.com/product/lo-tech-xt-cf-lite-rev-2/
 
