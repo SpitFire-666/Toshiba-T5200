@@ -5,6 +5,17 @@
 ![image](https://user-images.githubusercontent.com/38451588/129733966-22ee7865-65f6-43b2-9c47-891b78e0b54f.png)
 
 
+# Media
+
+- Toshiba ad, 1990, Australia:
+
+https://www.youtube.com/watch?v=PPWLVBK-W3Y
+
+- An ad featuring the T5200 amongst a lot of women's legs 
+
+https://www.youtube.com/watch?v=3rmI2FAk5Ic
+
+
 # Maintenance Manual
 
 http://www.minuszerodegrees.net/manuals/Toshiba/Other/Toshiba%20T5200%20-%20Maintenance%20Manual.pdf
