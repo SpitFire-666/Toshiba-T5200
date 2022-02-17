@@ -140,27 +140,21 @@ you can fit a 33Mhz or 40Mhz upgrade CPU in the T5200, it will just run at 20Mhz
 
 # Hard Disk (HDD)
 
-- Available in 100MB and 200MB (rarer) capacities
+- BIOS only supports 3 types of Conner drives, available in 40MB, 100MB and 200MB (rarer) capacities
 
 - Replacement drive must match one of the 3 approved conner HDDs - it must match the CHS setting in the BIOS and its model number must start with CP (Conner Peripherals).
  
- Options:
-- fire up the T5200 and go in to the BIOS setup and see what hard drive options you have - write them down - and buy a matching Conner CP series IDE drive.
-- write the AT version of XTIDE to a boot ROM and configure it in a network card, set the T5200 to no hard drive, and install any generic IDE hard drive.
-- find another Conner IDE drive and ask someone on here to hack the ROM, then burn the new ROM and replace the one on your motherboard (or maybe get away with drive overlay software)
 
- Drive Overlay software is a program that sits in the boot sector and reconfigures the drive before DOS starts.
- 
-## Connor CP-344/CP-3044 (40MB)
+### Conner CP-344/CP-3044 (40MB)
 
 ![image](https://user-images.githubusercontent.com/38451588/151661736-462e5589-0b63-4672-a2bb-90371464784b.png)
 
   
-## Conner CP-3104 (100MB):  
+### Conner CP-3104 (100MB):  
 
   ![image](https://user-images.githubusercontent.com/38451588/138080146-abbab5ef-eec3-4edc-b8d1-839683fb0211.png)
 
-## Conner CP-3204F (200MB):
+### Conner CP-3204F (200MB):
 
 
 ## HDD upgrades/mods
@@ -171,6 +165,13 @@ https://conventionalmemories.com/wiki_cm/3inONEder_for_Toshiba_portables
 
 https://texelec.com/product/lo-tech-xt-cf-lite-rev-2/
 
+Options:
+- fire up the T5200 and go in to the BIOS setup and see what hard drive options you have - write them down - and buy a matching Conner CP series IDE drive.
+- write the AT version of XTIDE to a boot ROM and configure it in a network card, set the T5200 to no hard drive, and install any generic IDE hard drive.
+- find another Conner IDE drive and ask someone on here to hack the ROM, then burn the new ROM and replace the one on your motherboard (or maybe get away with drive overlay software)
+
+ Drive Overlay software is a program that sits in the boot sector and reconfigures the drive before DOS starts.
+ 
 
 # Floppy Disk (FDD)
 
