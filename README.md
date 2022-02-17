@@ -37,6 +37,8 @@ PC001, PC002: 0N3105
 
 ### BIOS entry
 
+- Hold down Esc while powering on the system to force an error, then hit F1
+- Alternatively, launch TEST3.EXE from MS-DOS
 
 https://xtideuniversalbios.org/
 
@@ -57,7 +59,6 @@ RAM types appear to be the same as the Toshiba T8500 desktop PC and Acer 735C.
 ### Memory board
 
 ![image](https://user-images.githubusercontent.com/38451588/132091941-90e3593b-97c7-41dc-ae5d-c5e213af373b.png)
-
 
 
 ### Slots
@@ -82,8 +83,6 @@ https://www.winhistory-forum.net/showthread.php?pid=267370
 ![image](https://user-images.githubusercontent.com/38451588/131814713-3a018a9b-c1a4-4653-b876-926c3b7e0334.png)
 
 
-
-
 ## RAM Mod
 
  Here are details on a mod to add 8MB of RAM using a standard 72 pin 8MB Parity SIMM. (Requires at least 2MB of proprietary SIMMs already fitted) 
@@ -92,7 +91,6 @@ https://www.winhistory-forum.net/showthread.php?pid=267370
 
 
 https://www.vogons.org/viewtopic.php?f=46&t=57998&start=20 
-
 
 https://www.vogons.org/download/file.php?id=45121&mode=view 
 
@@ -111,10 +109,10 @@ https://www.iclocator.com/rfq.html/-5405EDC5-0471-4E05-9AC9-37B072077022?pagenam
 
 https://old.pinouts.ru/Memory/simm_40pin_pinout.shtml 
 
+
 # Motherboard/Mainboard
 
 ![image](https://user-images.githubusercontent.com/38451588/141057266-ca2b497e-8d77-43d9-920a-48ec93dd3af8.png)
-
 
 
 # CPU
@@ -123,17 +121,15 @@ https://old.pinouts.ru/Memory/simm_40pin_pinout.shtml
 
 ## CPU Upgrades
 
-you can fit a 33Mhz or 40Mhz upgrade CPU in the T5200, it will just run at 20Mhz unless it has built in clock doubling. The hardware mods improve the performance of some of the upgrade CPUs but aren't essential and the CPUs will work if you plug them in without any mods albeit with reduced performance. 
+you can fit a 33Mhz or 40Mhz upgrade CPU in the T5200, it will just run at 20Mhz unless the CPU has built in clock doubling. The hardware mods improve the performance of some of the upgrade CPUs but aren't essential and the CPUs will work if you plug them in without any mods albeit with reduced performance. 
 
  There are four possible 486 compatible CPUs from Cyrix / Texas instruments that can be used to upgrade the T5200s Intel 386 processor (Texas Instruments made the CPUs for Cyrix and sold them under their own brand as well): 
 
  Be careful when installing, do not confuse PIN 1!!! 
  
-
-
- 
-
 # Math Co-Processor
+
+- Standard i387 
 
 ![image](https://user-images.githubusercontent.com/38451588/138083051-54b49b0b-7ac3-44ec-b2b5-11dccef7f51e.png)
 
@@ -239,7 +235,7 @@ Quite often in these screens this may be a "cold solder" ( https://en.wikipedia.
 
 # Fans / Cooling
 
-- 3x 4cm x 2cm 12v dumb fans 
+- 3x 4cm x 2cm 12v dumb fans
 
 # ISA slots
  - One 16-bit (top)
