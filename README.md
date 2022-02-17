@@ -179,7 +179,13 @@ The T5200 uses a 26-pin (non-standard) FDD connector, which carries data + power
 ![image](https://user-images.githubusercontent.com/38451588/150640068-7be6420c-4b95-4bab-849b-d8c132eec5b5.png)
 
 
-These are prone to failure, and hard to find. It's best to use a mod to use a standard 34-pin interface. Then install a standard floppy or even Gotek USB floppy emulator (pictured):
+## Floppy mod
+
+The floppy drives are prone to failure, and hard to find. It's best to use a mod to use a standard 34-pin interface. 
+
+Info: https://www.vogons.org/viewtopic.php?p=642629#p642629
+
+Then install a standard floppy or even Gotek USB floppy emulator (pictured):
 
 ![image](https://user-images.githubusercontent.com/38451588/150640126-d1ac8c05-fb04-4e47-99a7-6dce654382d7.png)
 
