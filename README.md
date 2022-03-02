@@ -42,6 +42,7 @@ PC001, PC002: 0N3105
 
 https://xtideuniversalbios.org/
 
+https://forum.vcfed.org/index.php?threads/toshiba-t5200-100-with-cp30174e.52335/#post-641502
 
 ### BIOS chip
 
