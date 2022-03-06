@@ -217,7 +217,7 @@ Adapters like this may also work:
 ![image](https://user-images.githubusercontent.com/38451588/138082616-0a46b4bf-1432-4946-92b2-cd6db4440687.png)
 
 
-- Capacitors C2 and C4 are 16v 47uF
+- Capacitors C2 and C4 are 16v 47uF and do not appear to be related to the plasma display
 - C2 does not appear to be related to the plasma display (maybe it's for the VGA port?)
 - R127 and R134 (SMD resistors on rear) do not appear to be related to the plasma display
 
