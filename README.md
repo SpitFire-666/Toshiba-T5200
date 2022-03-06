@@ -1,6 +1,6 @@
 # TOSHIBA T5200 
 
-## Info, data, pics, tips etc
+## Info, mods, pics, tips etc
 
 ![image](https://user-images.githubusercontent.com/38451588/129733966-22ee7865-65f6-43b2-9c47-891b78e0b54f.png)
 
@@ -196,27 +196,34 @@ Adapters like this may also work:
 ![image](https://user-images.githubusercontent.com/38451588/150640288-59cf68aa-cac1-4da7-9a77-56a8377ee057.png)
 
 
-
 # Display
 
 ### Specs
-Orange Gas Plasma Display (T5200, T5200/100, T5200/200) Display Area: 9.1"W x 6.8"H; 11.5"  
 
-diagonal Resolution: 640 x 480 
+- Orange Gas Plasma Display (T5200, T5200/100, T5200/200) Display Area: 9.1"W x 6.8"H; 11.5"  
 
-Gray scales: 16 Contrast: 100 : 1 
+- diagonal Resolution: 640 x 480 
 
-34 pin plug 
+- Gray scales: 16 Contrast: 100 : 1 
+
+- 34 pin plug 
+
+- T5200 and T3200SX have the same displays, VGA 640x480, 16 shades of intensity. 
 
 ### VGA / Video Card / HRGS
 
-FH3HR4 
+- Board: FH3HR4 
 
 ![image](https://user-images.githubusercontent.com/38451588/138082616-0a46b4bf-1432-4946-92b2-cd6db4440687.png)
 
+
+- Capacitors C2 and C4 are 16v 47uF
+- C2 does not appear to be related to the plasma display (maybe it's for the VGA port?)
+- R127 and R134 (SMD resistors on rear) do not appear to be related to the plasma display
+
 - "You dont really need a video driver for your Paradise PVGA1 (?) because these Toshiba models do have - although indeed having one of the first Paradise SVGA compatible chipsets - only 256kb of video RAM, iirc. which means youre limited to a max of 640x480x16 at max, if I am not mistaken."
 
-T5200 and T3200SX do have the same displays, VGA 640x480, 16 shades of intensity. 
+
 
 ### Issues 
 there is a single line vertical artifact on screen.  
