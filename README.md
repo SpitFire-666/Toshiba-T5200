@@ -254,7 +254,12 @@ Connector made by KEL and 3m makes compatible connectors as well. Part numbers: 
 
  https://www.reddit.com/r/retrobattlestations/comments/j06u3i/i_finally_finished_my_cf_card_adapter_for_toshiba/ 
 
- 
+# Photos
+
+- I've taken a bunch of nice, big photos of the guts of this machine here:
+
+https://photos.app.goo.gl/ahrCAmGZybXRYxjD6
+
 # Links
 
 http://www.le-grenier-informatique.fr/pages/les-telechargements/utilitaires.html
