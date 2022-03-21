@@ -250,6 +250,14 @@ Quite often in these screens this may be a "cold solder" ( https://en.wikipedia.
 
 # Rear Expansion Slot
 
+- Usually unpopulated, but modems were the most common expansion. I've also seen parallel ports.
+
+![image](https://user-images.githubusercontent.com/38451588/159208038-a6da5aef-3d44-411d-9247-b10111abc19d.png)
+
+
+![image](https://user-images.githubusercontent.com/38451588/159207603-7dcc1a33-68be-425c-9f1a-b8186de08296.png)
+
+
 Connector made by KEL and 3m makes compatible connectors as well. Part numbers: KEL 8801-060-170L-F or 3M P50-060S-RR1-EA 
 
  https://www.reddit.com/r/retrobattlestations/comments/j06u3i/i_finally_finished_my_cf_card_adapter_for_toshiba/ 
