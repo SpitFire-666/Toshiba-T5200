@@ -156,11 +156,22 @@ you can fit a 33Mhz or 40Mhz upgrade CPU in the T5200, it will just run at 20Mhz
 
 ## HDD upgrades/mods
 
+### XT-IDE option
+
+- An ISA card with IDE connector/SD card slot/CF card slot
+
+![image](https://user-images.githubusercontent.com/38451588/160276380-2011e3bd-5cda-4115-9b6d-9a595bb18bc0.png)
+
 https://conventionalmemories.com/wiki_cm/CF_adapter_for_Toshiba_portables
 
 https://conventionalmemories.com/wiki_cm/3inONEder_for_Toshiba_portables
 
 https://texelec.com/product/lo-tech-xt-cf-lite-rev-2/
+
+- Set the IO_ADDR to 300H
+- Prepare a CF card (install MS-DOS in VirtualBox, convert the VDI to .IMG, use Win32DiskImager to write to the CF card
+
+
 
 Options:
 - fire up the T5200 and go in to the BIOS setup and see what hard drive options you have - write them down - and buy a matching Conner CP series IDE drive.
