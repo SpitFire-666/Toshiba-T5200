@@ -49,24 +49,23 @@ https://forum.vcfed.org/index.php?threads/toshiba-t5200-100-with-cp30174e.52335/
 ![image](https://user-images.githubusercontent.com/38451588/129731323-b3285d0e-eee0-4757-96bb-07222fd3d0ee.png)
 
 
+###  CMOS Battery
+
+- I replaced mine with a 3V CR2032 battery (with battery holder) and diode (if you're worried about the machine trying to "charge" the battery).
+
+![image](https://user-images.githubusercontent.com/38451588/161382229-b83a9a8d-d6e0-43c4-9f30-7ca61384752a.png)
+
+
+
 # Memory (RAM)
 
-A maximum of 16MB is supported (but I've only seen up to 14MB).
-
-The T5200 has 1MB of memory soldered on board and an expansion SIMM board with 6 and a half SIMM slots which uses proprietary 40 pin SIMMs. 
-
-RAM types appear to be the same as the Toshiba T8500 desktop PC and Acer 735C.
+- A maximum of 16MB is supported (but I've only seen up to 14MB).
+- 1MB of memory soldered on board with an expansion SIMM board with 6x 40 pin (proprietary) SIMM slots and 1x 30-pin parity slot
+- RAM types appear to be the same as the Toshiba T8500 desktop PC and Acer 735C.
 
 ### Memory board
 
 ![image](https://user-images.githubusercontent.com/38451588/132091941-90e3593b-97c7-41dc-ae5d-c5e213af373b.png)
-
-
-### Slots
-
-6x 40 PIN SIMM 
-
-1x 30 PIN SIMM (Parity), optional 
 
 ![image](https://user-images.githubusercontent.com/38451588/130006005-8cf8ff80-3ef5-4474-afec-e8a421e00806.png)
 
