@@ -40,9 +40,6 @@ PC001, PC002: 0N3105
 - Hold down Esc while powering on the system to force an error, then hit F1
 - Alternatively, launch TEST3.EXE from MS-DOS
 
-https://xtideuniversalbios.org/
-
-https://forum.vcfed.org/index.php?threads/toshiba-t5200-100-with-cp30174e.52335/#post-641502
 
 ### BIOS chip
 
@@ -182,26 +179,22 @@ Options:
 
 # Floppy Disk (FDD)
 
-The T5200 uses a 26-pin (non-standard) FDD connector, which carries data + power. 
+- 26-pin (non-standard) FDD connector, which carries data + power. 
+- These drives are prone to failure, and rarely work anymore
+- ℹRecommend the floppy drive mod below which involves hacking a ribbon cable to allow a standard 34-pin floppy (or Gotek USB floppy emulator) to work
 
-![image](https://user-images.githubusercontent.com/38451588/150640068-7be6420c-4b95-4bab-849b-d8c132eec5b5.png)
+![image](https://user-images.githubusercontent.com/38451588/161383043-07148ab2-8b76-42a8-8b69-4e238dd3f42e.png)
 
 
 ## Floppy mod
 
-The floppy drives are prone to failure, and hard to find. It's best to use a mod to use a standard 34-pin interface. 
+How-to: https://www.vogons.org/viewtopic.php?p=642629#p642629
 
-Info: https://www.vogons.org/viewtopic.php?p=642629#p642629
+Gotek USB floppy emulator (pictured):
 
-Then install a standard floppy or even Gotek USB floppy emulator (pictured):
+![image](https://user-images.githubusercontent.com/38451588/161382983-5f1f4f1e-ca1a-4908-b109-7556b260759d.png)
 
-![image](https://user-images.githubusercontent.com/38451588/150640126-d1ac8c05-fb04-4e47-99a7-6dce654382d7.png)
-
-
-![image](https://user-images.githubusercontent.com/38451588/150640212-b3f8936d-4f67-4805-b96e-1d5f53ca4a75.png)
-
-
-Adapters like this may also work:
+- Adapters like this may also work:
 
 ![image](https://user-images.githubusercontent.com/38451588/150640288-59cf68aa-cac1-4da7-9a77-56a8377ee057.png)
 
@@ -235,15 +228,10 @@ Adapters like this may also work:
 
 
 
-### Issues 
-there is a single line vertical artifact on screen.  
-
-Quite often in these screens this may be a "cold solder" ( https://en.wikipedia.org/wiki/Soldering#Electronics ). You can try to check these "fat" solders on top of the screen - every now and then one of them can be repaired. 
- 
 
 ## I/O card
 
-- Note - system will not start without this card present.
+- Note - system will not POST without this card present.
 
 ![image](https://user-images.githubusercontent.com/38451588/138082561-74206daf-6a7a-4af4-8532-e851730fa627.png)
 
@@ -272,6 +260,13 @@ Connector made by KEL and 3m makes compatible connectors as well. Part numbers: 
 
  https://www.reddit.com/r/retrobattlestations/comments/j06u3i/i_finally_finished_my_cf_card_adapter_for_toshiba/ 
 
+
+### Issues 
+there is a single line vertical artifact on screen.  
+
+Quite often in these screens this may be a "cold solder" ( https://en.wikipedia.org/wiki/Soldering#Electronics ). You can try to check these "fat" solders on top of the screen - every now and then one of them can be repaired. 
+
+
 # Photos
 
 - I've taken a bunch of nice, big photos of the guts of this machine here:
@@ -282,3 +277,6 @@ https://photos.app.goo.gl/ahrCAmGZybXRYxjD6
 
 http://www.le-grenier-informatique.fr/pages/les-telechargements/utilitaires.html
  
+https://xtideuniversalbios.org/
+
+https://forum.vcfed.org/index.php?threads/toshiba-t5200-100-with-cp30174e.52335/#post-641502
