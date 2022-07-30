@@ -16,6 +16,29 @@ https://www.youtube.com/watch?v=PPWLVBK-W3Y
 https://www.youtube.com/watch?v=3rmI2FAk5Ic
 
 
+# Color/Colour version
+
+The screen assembly is slightly different in the colour LCD version:
+
+- Color LCD has 2 dials instead of one:
+- 
+![image](https://user-images.githubusercontent.com/38451588/181877108-0104f558-dc73-42d0-9287-ee75f2173bf8.png)
+
+- Screen is more matte:
+
+![image](https://user-images.githubusercontent.com/38451588/181877133-93c7b40a-34be-439e-bfcb-f7e96a32a70b.png)
+
+- Lid is different:
+
+![image](https://user-images.githubusercontent.com/38451588/181877833-a95827aa-a50f-4874-9c5b-3b6e909c87cd.png)
+
+
+- LCD display is smaller than the plasma
+- 
+(10.4" vs 11.5")
+
+
+
 # Maintenance Manual
 
 http://www.minuszerodegrees.net/manuals/Toshiba/Other/Toshiba%20T5200%20-%20Maintenance%20Manual.pdf
