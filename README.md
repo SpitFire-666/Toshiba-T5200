@@ -16,21 +16,19 @@ https://www.youtube.com/watch?v=PPWLVBK-W3Y
 https://www.youtube.com/watch?v=3rmI2FAk5Ic
 
 
-# Color/Colour version
+# T5200 vs T5200C
 
-The screen assembly is slightly different in the colour LCD version:
+| T5200 | T5200C | Part | Comment | 
+|--|--|--|--|
+| |![image](https://user-images.githubusercontent.com/38451588/181877108-0104f558-dc73-42d0-9287-ee75f2173bf8.png) | Display | Color LCD has 2 dials instead of one | 
+| |![image](https://user-images.githubusercontent.com/38451588/181877133-93c7b40a-34be-439e-bfcb-f7e96a32a70b.png) | Display | T5200C display is more matte than the plasma |
+| ![image](https://user-images.githubusercontent.com/38451588/183250781-ca9b7102-303c-4637-8970-930b2092a015.png) | ![image](https://user-images.githubusercontent.com/38451588/181877833-a95827aa-a50f-4874-9c5b-3b6e909c87cd.png) | Display/lid | Lid is fatter on the T5200C |
 
-- Color LCD has 2 dials instead of one:
-- 
-![image](https://user-images.githubusercontent.com/38451588/181877108-0104f558-dc73-42d0-9287-ee75f2173bf8.png)
 
-- Screen is more matte:
-
-![image](https://user-images.githubusercontent.com/38451588/181877133-93c7b40a-34be-439e-bfcb-f7e96a32a70b.png)
 
 - Lid is different:
 
-![image](https://user-images.githubusercontent.com/38451588/181877833-a95827aa-a50f-4874-9c5b-3b6e909c87cd.png)
+
 
 
 - LCD display is smaller than the plasma (10.4" vs 11.5")
@@ -271,7 +269,7 @@ Gotek USB floppy emulator (pictured):
 
 # Rear Expansion Slot
 
-- Usually unpopulated, but modems were the most common expansion. I've also seen parallel ports.
+- Often unpopulated, but modems were the most common expansion. I've also seen parallel ports.
 
 ![image](https://user-images.githubusercontent.com/38451588/159208038-a6da5aef-3d44-411d-9247-b10111abc19d.png)
 
@@ -280,6 +278,11 @@ Gotek USB floppy emulator (pictured):
 
 
 ![image](https://user-images.githubusercontent.com/38451588/166194285-94945955-994a-4e25-9a60-614c29131673.png)
+
+- Proprietary docking station port:
+
+![image](https://user-images.githubusercontent.com/38451588/183251788-dd848e97-bbee-481f-85a4-bac94d44a8db.png)
+
 
 
 Connector made by KEL and 3m makes compatible connectors as well. Part numbers: KEL 8801-060-170L-F or 3M P50-060S-RR1-EA 
