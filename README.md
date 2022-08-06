@@ -33,10 +33,7 @@ The screen assembly is slightly different in the colour LCD version:
 ![image](https://user-images.githubusercontent.com/38451588/181877833-a95827aa-a50f-4874-9c5b-3b6e909c87cd.png)
 
 
-- LCD display is smaller than the plasma
-- 
-(10.4" vs 11.5")
-
+- LCD display is smaller than the plasma (10.4" vs 11.5")
 
 
 # Maintenance Manual
@@ -66,7 +63,10 @@ PC001, PC002: 0N3105
 
 ### BIOS chip
 
+- Chip could be from AMD or Texas Instruments
+
 ![image](https://user-images.githubusercontent.com/38451588/129731323-b3285d0e-eee0-4757-96bb-07222fd3d0ee.png)
+
 
 
 ###  CMOS Battery
@@ -79,8 +79,9 @@ PC001, PC002: 0N3105
 
 # Memory (RAM)
 
+- 1MB of RAM is soldered on the RAM board - the system will run just fine with no SIMMs
+- 6x 40-pin SIMM slots (proprietary) SIMM slots and 1x 30-pin parity slot (optional)
 - A maximum of 16MB is supported (but I've only seen up to 14MB).
-- 1MB of memory soldered on board with an expansion SIMM board with 6x 40 pin (proprietary) SIMM slots and 1x 30-pin parity slot
 - RAM types appear to be the same as the Toshiba T8500 desktop PC and Acer 735C.
 
 ### Memory board
@@ -116,15 +117,12 @@ https://www.vogons.org/download/file.php?id=45121&mode=view
 
 You might be able to use a 16 bit ISA memory expansion board for memory below 16MB but that might not work and would be very slow even if it did. 
 
- 
-
 Each pair of SIMM slots has a single label on the component side so there are 6 slots but only 3 labels (IS17, IS16 & IS15 - ignoring the short 30 pin slot). The middle pair is IS16 and one slot I have referenced as "A" and the other as "B" although they are not labelled 
 
 
 Web links: 
 
 https://www.iclocator.com/rfq.html/-5405EDC5-0471-4E05-9AC9-37B072077022?pagename=rfq&e=33oueXFqWRA 
-
  
 
 https://old.pinouts.ru/Memory/simm_40pin_pinout.shtml 
@@ -137,7 +135,7 @@ https://old.pinouts.ru/Memory/simm_40pin_pinout.shtml
 
 # CPU
 
-- 132-pin PGA i386
+- 132-pin PGA i386 @ 20MHz
 
 ## CPU Upgrades
 
@@ -171,6 +169,8 @@ you can fit a 33Mhz or 40Mhz upgrade CPU in the T5200, it will just run at 20Mhz
   ![image](https://user-images.githubusercontent.com/38451588/138080146-abbab5ef-eec3-4edc-b8d1-839683fb0211.png)
 
 ### Conner CP-3204F (200MB):
+
+![image](https://user-images.githubusercontent.com/38451588/183248769-1afba90b-a025-490d-8ca9-b6845b05c673.png)
 
 
 ## HDD upgrades/mods
