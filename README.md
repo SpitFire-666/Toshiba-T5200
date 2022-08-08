@@ -143,6 +143,13 @@ you can fit a 33Mhz or 40Mhz upgrade CPU in the T5200, it will just run at 20Mhz
 
  Be careful when installing, do not confuse PIN 1!!! 
  
+- Texas Instruments TXI486DLC/E-33GA
+- Texas Instruments TX486DLC-40BGA
+
+
+![image](https://user-images.githubusercontent.com/38451588/183288996-dbf6525b-7abb-47fb-8191-681df5cbc53f.png)
+
+ 
 # Math Co-Processor
 
 - Standard i387 
