@@ -145,6 +145,8 @@ you can fit a 33Mhz or 40Mhz upgrade CPU in the T5200, it will just run at 20Mhz
  
 - Texas Instruments TXI486DLC/E-33GA
 - Texas Instruments TX486DLC-40BGA
+- Cyrix Cx486DRx2 20/40GPL
+- TI486DLC/E40BGA
 
 
 ![image](https://user-images.githubusercontent.com/38451588/183288996-dbf6525b-7abb-47fb-8191-681df5cbc53f.png)
