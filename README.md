@@ -277,24 +277,15 @@ Gotek USB floppy emulator (pictured):
 # Rear Expansion Slot
 
 - Often unpopulated, but modems were the most common expansion. I've also seen parallel ports.
+- The interface connector for the mainboard is made by KEL and 3m makes compatible connectors as well. Part numbers: KEL 8801-060-170L-F or 3M P50-060S-RR1-EA 
 
-![image](https://user-images.githubusercontent.com/38451588/159208038-a6da5aef-3d44-411d-9247-b10111abc19d.png)
+| Image | Expansion card | Comment |
+|-|-|-|
+| ![image](https://user-images.githubusercontent.com/38451588/159207603-7dcc1a33-68be-425c-9f1a-b8186de08296.png) | Modem | |
+| ![image](https://user-images.githubusercontent.com/38451588/183251788-dd848e97-bbee-481f-85a4-bac94d44a8db.png) | Toshiba Expansion box connector | |
+| ![image](https://user-images.githubusercontent.com/38451588/166194285-94945955-994a-4e25-9a60-614c29131673.png) | Expansion box card ? | |
+| ![image](https://user-images.githubusercontent.com/38451588/183807329-98d5fe1e-9f39-43be-a451-fe66d80401e9.png) | ConventionalMemories' 3inOneder card | An XT-IDE card that replaces the HDD with a CF card, includes a soundcard and gameport (https://old.reddit.com/r/retrobattlestations/comments/n8ilxg/all_the_features_my_toshiba_was_missing_on_one/) |
 
-
-![image](https://user-images.githubusercontent.com/38451588/159207603-7dcc1a33-68be-425c-9f1a-b8186de08296.png)
-
-
-![image](https://user-images.githubusercontent.com/38451588/166194285-94945955-994a-4e25-9a60-614c29131673.png)
-
-- Proprietary docking station port:
-
-![image](https://user-images.githubusercontent.com/38451588/183251788-dd848e97-bbee-481f-85a4-bac94d44a8db.png)
-
-
-
-Connector made by KEL and 3m makes compatible connectors as well. Part numbers: KEL 8801-060-170L-F or 3M P50-060S-RR1-EA 
-
- https://www.reddit.com/r/retrobattlestations/comments/j06u3i/i_finally_finished_my_cf_card_adapter_for_toshiba/ 
 
 
 ### Issues 
