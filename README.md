@@ -295,6 +295,32 @@ there is a single line vertical artifact on screen.
 
 Quite often in these screens this may be a "cold solder" ( https://en.wikipedia.org/wiki/Soldering#Electronics ). You can try to check these "fat" solders on top of the screen - every now and then one of them can be repaired. 
 
+# Capacitors
+
+## Converter board (plasma)
+
+| Number | Voltage | Capacitance |
+|-|-|-|
+|C00|? |? |
+|C202| ? | ? |
+|?| 250V| ?|
+| ? |25v | 100uF |
+
+## Converter board (Colour LCD - T5200C)
+
+## Plasma display
+
+| Number | Voltage | Capacitance |
+|-|-|-|
+|| 250v |3.3uF |
+|| 250v |3.3uF |
+|C37| 250v | 1uF |
+|C10|||
+|C6|||
+|C7|||
+|C9| 16v| 47uF|
+
+
 
 # Photos
 
