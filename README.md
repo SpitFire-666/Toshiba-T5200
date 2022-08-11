@@ -320,6 +320,24 @@ Quite often in these screens this may be a "cold solder" ( https://en.wikipedia.
 |C7|||
 |C9| 16v| 47uF|
 
+## VGA (HGRS) card FH3HR4
+| Number | Voltage | Capacitance |
+|-|-|-|
+|C2|||
+|C4|||
+
+## Motherboard
+
+| Number | Voltage | Capacitance |
+|-|-|-|
+|C1|||
+|C2|||
+|C11|||
+|C299|||
+|C12|||
+
+# Power Supply
+
 
 
 # Photos
