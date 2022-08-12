@@ -308,6 +308,15 @@ Quite often in these screens this may be a "cold solder" ( https://en.wikipedia.
 
 ## Converter board (Colour LCD - T5200C)
 
+| Number | Voltage | Capacitance |
+|-|-|-|
+| C2| 25v | 22uF |
+|C17 | 10v | 1000uF|
+|C1 | 35v | 330uF |
+| C14| 35v | 330uF |
+|C6 | 25v| 820uF|
+
+
 ## Plasma display
 
 | Number | Voltage | Capacitance |
