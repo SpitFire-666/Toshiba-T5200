@@ -160,25 +160,19 @@ you can fit a 33Mhz or 40Mhz upgrade CPU in the T5200, it will just run at 20Mhz
 ![image](https://user-images.githubusercontent.com/38451588/138083051-54b49b0b-7ac3-44ec-b2b5-11dccef7f51e.png)
 
 
-# Hard Disk (HDD)
+# Hard Disk Drive (HDD)
 
 - BIOS only supports 3 types of Conner drives, available in 40MB, 100MB and 200MB (rarer) capacities
 
 - Replacement drive must match one of the 3 approved conner HDDs - it must match the CHS setting in the BIOS and its model number must start with CP (Conner Peripherals).
  
 
-### Conner CP-344/CP-3044 (40MB)
+| Pic | Make | Model | Capacity | Seek time (ms)|
+|-|-|-|-|-|
+|![image](https://user-images.githubusercontent.com/38451588/151661736-462e5589-0b63-4672-a2bb-90371464784b.png) | Conner | CP-344/CP-3044 | 40MB ||
+| ![image](https://user-images.githubusercontent.com/38451588/138080146-abbab5ef-eec3-4edc-b8d1-839683fb0211.png) | Conner | CP-3104 | 100MB ||
+| ![image](https://user-images.githubusercontent.com/38451588/183248769-1afba90b-a025-490d-8ca9-b6845b05c673.png) | Conner | CP-3204F | 200MB || 
 
-![image](https://user-images.githubusercontent.com/38451588/151661736-462e5589-0b63-4672-a2bb-90371464784b.png)
-
-  
-### Conner CP-3104 (100MB):  
-
-  ![image](https://user-images.githubusercontent.com/38451588/138080146-abbab5ef-eec3-4edc-b8d1-839683fb0211.png)
-
-### Conner CP-3204F (200MB):
-
-![image](https://user-images.githubusercontent.com/38451588/183248769-1afba90b-a025-490d-8ca9-b6845b05c673.png)
 
 
 ## HDD upgrades/mods
@@ -208,13 +202,16 @@ Options:
  Drive Overlay software is a program that sits in the boot sector and reconfigures the drive before DOS starts.
  
 
-# Floppy Disk (FDD)
+# Floppy Disk Drive (FDD)
 
 - 26-pin (non-standard) FDD connector, which carries data + power. 
 - These drives are prone to failure, and rarely work anymore
 - ℹRecommend the floppy drive mod below which involves hacking a ribbon cable to allow a standard 34-pin floppy (or Gotek USB floppy emulator) to work
 
-![image](https://user-images.githubusercontent.com/38451588/161383043-07148ab2-8b76-42a8-8b69-4e238dd3f42e.png)
+| Pic | Make | Model | Note |
+| - | -|-|-|
+| ![image](https://user-images.githubusercontent.com/38451588/161383043-07148ab2-8b76-42a8-8b69-4e238dd3f42e.png) | Toshiba | ND-356S-A | | 
+| | Citizen | 0SDA-32C | |
 
 
 ## Floppy mod
