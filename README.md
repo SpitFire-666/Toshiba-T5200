@@ -26,7 +26,9 @@ https://www.youtube.com/watch?v=3rmI2FAk5Ic
 | | Toshiba logo | T5200 has silver Toshiba badge, T5200C has gold badge |
 
 PA8054U - T5200C model
-
+PA8052U - 100MB
+PA8050U - 40MB
+???  - 200MB
 
 
 
