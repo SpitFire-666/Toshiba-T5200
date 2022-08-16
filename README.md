@@ -144,10 +144,14 @@ you can fit a 33Mhz or 40Mhz upgrade CPU in the T5200, it will just run at 20Mhz
 
  Be careful when installing, do not confuse PIN 1!!! 
  
+- Stock CPU. SystemInfo benchmark: ??
 - Texas Instruments TXI486DLC/E-33GA
 - Texas Instruments TX486DLC-40BGA
+- Texas Instruments TX486DLC-40GA (Note, installs sideways). SystemInfo benchmark: 23.9
+- Texas Instruments TI486DLC/E40BGA
 - Cyrix Cx486DRx2 20/40GPL
-- TI486DLC/E40BGA
+- Texas Instruments SXL2-50. SystemInfo benchmark: 32.1 (stock, 54.3 using custom BIOS that allows it to run at 40MHz https://www.vogons.org/viewtopic.php?f=46&t=57998#p643529
+
 
 
 ![image](https://user-images.githubusercontent.com/38451588/183288996-dbf6525b-7abb-47fb-8191-681df5cbc53f.png)
