@@ -15,25 +15,22 @@ https://www.youtube.com/watch?v=PPWLVBK-W3Y
 
 https://www.youtube.com/watch?v=3rmI2FAk5Ic
 
+# Models
 
-# T5200 vs T5200C
+| Model | Type | Comment |
+|-|-|-|
+|PA8054U | T5200C or T5200/200 (200MB HDD) model | |
+|PA8052U | Plasma, 100MB | |
+|PA8050U | Plasma, 40MB | |
+
+ ## T5200 vs T5200C - differences
 
 | T5200 | T5200C | Part | Comment | 
 |--|--|--|--|
 | |![image](https://user-images.githubusercontent.com/38451588/181877108-0104f558-dc73-42d0-9287-ee75f2173bf8.png) | Display | Color LCD has 2 dials instead of one | 
 | |![image](https://user-images.githubusercontent.com/38451588/181877133-93c7b40a-34be-439e-bfcb-f7e96a32a70b.png) | Display | T5200C display is more matte than the plasma |
 | ![image](https://user-images.githubusercontent.com/38451588/183250781-ca9b7102-303c-4637-8970-930b2092a015.png) | ![image](https://user-images.githubusercontent.com/38451588/181877833-a95827aa-a50f-4874-9c5b-3b6e909c87cd.png) | Display/lid | Lid is fatter on the T5200C |
-
-
-PA8054U - T5200C model
-PA8052U - 100MB
-PA8050U - 40MB
-???  - 200MB
-
-
-
-- LCD display is smaller than the plasma (10.4" vs 11.5")
-
+| | | LCD display is smaller than the plasma (10.4" vs 11.5") |
 
 # Maintenance Manual
 
@@ -61,12 +58,11 @@ PC001, PC002: 0N3105
 
 ## BIOS Variants
 
-![image](https://user-images.githubusercontent.com/38451588/185271363-b989bc52-4629-436a-bd74-e79d2c560dac.png)
-
+- Note the "05" up top right, and the ability to choose plasma font set on the other variant!
 
 ![image](https://user-images.githubusercontent.com/38451588/185271619-3f36e793-05b0-4c88-9b9b-1366cb0da993.png)
 
-
+![image](https://user-images.githubusercontent.com/38451588/185385205-52e3ffdf-55d4-4bd5-9bd3-9847bbb68ee7.png)
 
 
 ### BIOS chip
@@ -74,7 +70,6 @@ PC001, PC002: 0N3105
 - Chip could be from AMD or Texas Instruments
 
 ![image](https://user-images.githubusercontent.com/38451588/129731323-b3285d0e-eee0-4757-96bb-07222fd3d0ee.png)
-
 
 
 ###  CMOS Battery
