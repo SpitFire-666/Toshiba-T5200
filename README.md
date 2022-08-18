@@ -54,10 +54,19 @@ PC001, PC002: 0N3105
 
 # BIOS
 
-### BIOS entry
+### Accessing the BIOS
 
 - Hold down Esc while powering on the system to force an error, then hit F1
 - Alternatively, launch TEST3.EXE from MS-DOS
+
+## BIOS Variants
+
+![image](https://user-images.githubusercontent.com/38451588/185271363-b989bc52-4629-436a-bd74-e79d2c560dac.png)
+
+
+![image](https://user-images.githubusercontent.com/38451588/185271619-3f36e793-05b0-4c88-9b9b-1366cb0da993.png)
+
+
 
 
 ### BIOS chip
@@ -208,7 +217,7 @@ Options:
 
 # Floppy Disk Drive (FDD)
 
-- 26-pin (non-standard) FDD connector, which carries data + power. 
+- 26-pin (non-standard) FDD connector, which carries data + power
 - These drives are prone to failure, and rarely work anymore
 - ℹRecommend the floppy drive mod below which involves hacking a ribbon cable to allow a standard 34-pin floppy (or Gotek USB floppy emulator) to work
 
@@ -247,7 +256,7 @@ Gotek USB floppy emulator (pictured):
 
 ### VGA / Video Card / HRGS
 
-- Board: FH3HR4 
+- Board: FH3HR4 / FH3HR3
 
 ![image](https://user-images.githubusercontent.com/38451588/138082616-0a46b4bf-1432-4946-92b2-cd6db4440687.png)
 
@@ -289,7 +298,12 @@ Gotek USB floppy emulator (pictured):
 | ![image](https://user-images.githubusercontent.com/38451588/183251788-dd848e97-bbee-481f-85a4-bac94d44a8db.png) | Toshiba Expansion box connector | |
 | ![image](https://user-images.githubusercontent.com/38451588/166194285-94945955-994a-4e25-9a60-614c29131673.png) | Expansion box card ? | |
 | ![image](https://user-images.githubusercontent.com/38451588/183807329-98d5fe1e-9f39-43be-a451-fe66d80401e9.png) | ConventionalMemories' 3inOneder card | An XT-IDE card that replaces the HDD with a CF card, includes a soundcard and gameport (https://old.reddit.com/r/retrobattlestations/comments/n8ilxg/all_the_features_my_toshiba_was_missing_on_one/) |
+| ![image](https://user-images.githubusercontent.com/38451588/185272409-c709a88d-09d0-45aa-aa4e-4a1100b25992.png) | LAN card | | 
 
+
+Modem
+
+![image](https://user-images.githubusercontent.com/38451588/185271896-0c77e701-f674-4bf0-a2d9-1c472af21384.png)
 
 
 ### Issues 
