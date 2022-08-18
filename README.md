@@ -2,18 +2,8 @@
 
 ## Info, mods, pics, tips etc
 
-![image](https://user-images.githubusercontent.com/38451588/129733966-22ee7865-65f6-43b2-9c47-891b78e0b54f.png)
+![image](https://user-images.githubusercontent.com/38451588/185399025-eac09d79-5327-4b18-9074-843dcfde0991.png)
 
-
-# Media
-
-- Toshiba ad, 1990, Australia:
-
-https://www.youtube.com/watch?v=PPWLVBK-W3Y
-
-- An ad featuring the T5200 amongst a lot of women's legs 
-
-https://www.youtube.com/watch?v=3rmI2FAk5Ic
 
 # Models
 
@@ -82,26 +72,32 @@ PC001, PC002: 0N3105
 
 # Memory (RAM)
 
-- 1MB of RAM is soldered on the RAM board - the system will run just fine with no SIMMs
-- 6x 40-pin SIMM slots (proprietary) SIMM slots and 1x 30-pin parity slot (optional)
-- A maximum of 16MB is supported (but I've only seen up to 14MB).
-- RAM types appear to be the same as the Toshiba T8500 desktop PC and Acer 735C.
+- 1MB of RAM is soldered on the RAM board - the system will run just fine with no SIMMs installed
+- 6x 40-pin SIMM slots (proprietary and impossible to find 😥) and 1x 30-pin parity slot (optional)
+- Apparently a maximum of 16MB is supported (but I've only seen up to 14MB)
+- SIMMs appear to be the same type as used in the Toshiba T8500 desktop PC and Acer 735C
 
 ### Memory board
 
-![image](https://user-images.githubusercontent.com/38451588/132091941-90e3593b-97c7-41dc-ae5d-c5e213af373b.png)
+![image](https://user-images.githubusercontent.com/38451588/185402032-e8fe3137-5acd-4901-8e2b-b715a50acbb9.png)
+
 
 ![image](https://user-images.githubusercontent.com/38451588/130006005-8cf8ff80-3ef5-4474-afec-e8a421e00806.png)
 
  
-### SIMMs
+### SIMM variants
 
 Front and back of 4 different modules:
 
 ![image](https://user-images.githubusercontent.com/38451588/141056903-9fdc0ed4-73e3-4f66-aff3-88474bef04b4.png)
 ![image](https://user-images.githubusercontent.com/38451588/141056919-16e454e6-6690-42c8-8613-7935e063f799.png)
 
-https://www.winhistory-forum.net/showthread.php?pid=267370
+Others I've seen online:
+
+![image](https://user-images.githubusercontent.com/38451588/185403433-7197f463-343b-4376-bf4c-a01e34e71e9d.png)
+
+
+![image](https://user-images.githubusercontent.com/38451588/185402205-056ac3da-8973-4e6d-b86f-312dd36a154c.png)
 
 
 ![image](https://user-images.githubusercontent.com/38451588/131814713-3a018a9b-c1a4-4653-b876-926c3b7e0334.png)
@@ -138,23 +134,25 @@ https://old.pinouts.ru/Memory/simm_40pin_pinout.shtml
 
 # CPU
 
-- 132-pin PGA i386 @ 20MHz
+- 132-pin PGA Intel i386 DX @ 20MHz
+
+![image](https://user-images.githubusercontent.com/38451588/185403793-f91672fe-9466-47cb-8adf-be334536970a.png)
+
 
 ## CPU Upgrades
 
-you can fit a 33Mhz or 40Mhz upgrade CPU in the T5200, it will just run at 20Mhz unless the CPU has built in clock doubling. The hardware mods improve the performance of some of the upgrade CPUs but aren't essential and the CPUs will work if you plug them in without any mods albeit with reduced performance. 
+You can fit a 33Mhz or 40Mhz upgrade CPU in the T5200, it will just run at 20Mhz unless the CPU has built in clock doubling. The hardware mods improve the performance of some of the upgrade CPUs but aren't essential and the CPUs will work if you plug them in without any mods albeit with reduced performance. 
 
- There are four possible 486 compatible CPUs from Cyrix / Texas instruments that can be used to upgrade the T5200s Intel 386 processor (Texas Instruments made the CPUs for Cyrix and sold them under their own brand as well): 
 
- Be careful when installing, do not confuse PIN 1!!! 
- 
-- Stock CPU. SystemInfo benchmark: ??
-- Texas Instruments TXI486DLC/E-33GA
-- Texas Instruments TX486DLC-40BGA
-- Texas Instruments TX486DLC-40GA (Note, installs sideways). SystemInfo benchmark: 23.9
-- Texas Instruments TI486DLC/E40BGA
-- Cyrix Cx486DRx2 20/40GPL
-- Texas Instruments SXL2-50. SystemInfo benchmark: 32.1 (stock, 54.3 using custom BIOS that allows it to run at 40MHz https://www.vogons.org/viewtopic.php?f=46&t=57998#p643529
+| Brand | Model | Comment | SysInfo benchmark score (higher is better) |
+|-|-|-|-|
+| Intel | i386 DX @20MHz | Stock CPU | ?  | 
+| Texas Instruments | TXI486DLC/E-33GA |
+| Texas Instruments | TX486DLC-40BGA| 
+| Texas Instruments | TX486DLC-40GA | (Note, installs sideways) |  23.9 |
+| Texas Instruments | TI486DLC/E40BGA | |
+| Cyrix | Cx486DRx2 20/40GPL |
+| Texas Instruments | SXL2-50 | | 32.1 (stock, 54.3 using custom BIOS that allows it to run at 40MHz https://www.vogons.org/viewtopic.php?f=46&t=57998#p643529 |
 
 
 
@@ -163,9 +161,9 @@ you can fit a 33Mhz or 40Mhz upgrade CPU in the T5200, it will just run at 20Mhz
  
 # Math Co-Processor
 
-- Standard i387 
+- Optional i387
 
-![image](https://user-images.githubusercontent.com/38451588/138083051-54b49b0b-7ac3-44ec-b2b5-11dccef7f51e.png)
+![image](https://user-images.githubusercontent.com/38451588/185405977-28094708-244f-4633-bd59-abbc8a3af4e5.png)
 
 
 # Hard Disk Drive (HDD)
@@ -363,8 +361,17 @@ Quite often in these screens this may be a "cold solder" ( https://en.wikipedia.
 |C299|||
 |C12|||
 
-# Power Supply
+## Power Supply
 
+# Media appearances
+
+- Toshiba ad, 1990, Australia:
+
+https://www.youtube.com/watch?v=PPWLVBK-W3Y
+
+- An ad featuring the T5200 amongst a lot of women's legs 
+
+https://www.youtube.com/watch?v=3rmI2FAk5Ic
 
 
 # Photos
