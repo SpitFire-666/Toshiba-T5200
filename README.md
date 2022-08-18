@@ -23,7 +23,7 @@ https://www.youtube.com/watch?v=3rmI2FAk5Ic
 | |![image](https://user-images.githubusercontent.com/38451588/181877108-0104f558-dc73-42d0-9287-ee75f2173bf8.png) | Display | Color LCD has 2 dials instead of one | 
 | |![image](https://user-images.githubusercontent.com/38451588/181877133-93c7b40a-34be-439e-bfcb-f7e96a32a70b.png) | Display | T5200C display is more matte than the plasma |
 | ![image](https://user-images.githubusercontent.com/38451588/183250781-ca9b7102-303c-4637-8970-930b2092a015.png) | ![image](https://user-images.githubusercontent.com/38451588/181877833-a95827aa-a50f-4874-9c5b-3b6e909c87cd.png) | Display/lid | Lid is fatter on the T5200C |
-| | Toshiba logo | T5200 has silver Toshiba badge, T5200C has gold badge |
+
 
 PA8054U - T5200C model
 PA8052U - 100MB
@@ -242,9 +242,12 @@ Gotek USB floppy emulator (pictured):
 
 # Display
 
-### Specs
+## Orange Gas Plasma Display (T5200, T5200/100, T5200/200) 
 
-- Orange Gas Plasma Display (T5200, T5200/100, T5200/200) Display Area: 9.1"W x 6.8"H; 11.5"  
+
+- Display Area: 9.1"W x 6.8"H; 11.5"  
+
+- Model: Panasonic MD480T640PG3
 
 - diagonal Resolution: 640 x 480 
 
@@ -333,17 +336,21 @@ Quite often in these screens this may be a "cold solder" ( https://en.wikipedia.
 |C6 | 25v| 820uF|
 
 
-## Plasma display
+## Plasma display board
 
 | Number | Voltage | Capacitance |
 |-|-|-|
-|| 250v |3.3uF |
-|| 250v |3.3uF |
-|C37| 250v | 1uF |
-|C10|||
+| C2 | 250v |3.3uF |
 |C6|||
 |C7|||
 |C9| 16v| 47uF|
+|C10|||
+| C15| 
+| C32 | ? | ? |
+| C36 | 250v |3.3uF |
+|C37| 250v | 1uF |
+| C38 | 250v | 1uF |
+
 
 ## VGA (HGRS) card FH3HR4
 | Number | Voltage | Capacitance |
