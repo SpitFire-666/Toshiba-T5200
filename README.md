@@ -76,6 +76,8 @@ PC001, PC002: 0N3105
 - 6x 40-pin SIMM slots (proprietary and impossible to find 😥) and 1x 30-pin parity slot (optional)
 - Apparently a maximum of 16MB is supported (but I've only seen up to 14MB)
 - SIMMs appear to be the same type as used in the Toshiba T8500 desktop PC and Acer 735C
+- You can skip the RAM check/count on boot by hitting SPACE 
+
 
 ### Memory board
 
@@ -146,7 +148,7 @@ You can fit a 33Mhz or 40Mhz upgrade CPU in the T5200, it will just run at 20Mhz
 
 | Brand | Model | Comment | SysInfo benchmark score (higher is better) |
 |-|-|-|-|
-| Intel | i386 DX @20MHz | Stock CPU | ?  | 
+| Intel | i386 DX @20MHz | Stock CPU | 21.2  | 
 | Texas Instruments | TXI486DLC/E-33GA |
 | Texas Instruments | TX486DLC-40BGA| 
 | Texas Instruments | TX486DLC-40GA | (Note, installs sideways) |  23.9 |
