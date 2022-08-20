@@ -11,9 +11,14 @@
 |-|-|-|
 |PA8054U | T5200C or T5200/200 (200MB HDD) model | |
 |PA8052U | Plasma, 100MB | |
+| PA8052EA | Plasma, 100MB | No search results on google for this but it definitely exists (I have one!)| 
 |PA8050U | Plasma, 40MB | |
+| PA8050E | Plasma, ?? | | 
+
 
  ## T5200 vs T5200C - differences
+
+- Both machines are identical except for the display assembly (and LCD/PDP converter). The displays *should* be swappable (but has anyone ever tried??)
 
 | T5200 | T5200C | Part | Comment | 
 |--|--|--|--|
@@ -53,6 +58,13 @@ PC001, PC002: 0N3105
 ![image](https://user-images.githubusercontent.com/38451588/185271619-3f36e793-05b0-4c88-9b9b-1366cb0da993.png)
 
 ![image](https://user-images.githubusercontent.com/38451588/185385205-52e3ffdf-55d4-4bd5-9bd3-9847bbb68ee7.png)
+
+![image](https://user-images.githubusercontent.com/38451588/185744510-58be104c-c2eb-46f3-9ce3-6eb6655b5160.png)
+
+![image](https://user-images.githubusercontent.com/38451588/185744543-9684afc4-2e03-473a-a1db-0c2e8e82c2bb.png)
+
+![image](https://user-images.githubusercontent.com/38451588/185744681-1524ec4d-1187-4b85-a13e-b440e8a9f7df.png)
+
 
 
 ### BIOS chip
@@ -259,7 +271,6 @@ Gotek USB floppy emulator (pictured):
 
 ![image](https://user-images.githubusercontent.com/38451588/138082616-0a46b4bf-1432-4946-92b2-cd6db4440687.png)
 
-
 - Capacitors C2 and C4 are 16v 47uF and do not appear to be related to the plasma display
 - C2 does not appear to be related to the plasma display (maybe it's for the VGA port?)
 - R127 and R134 (SMD resistors on rear) do not appear to be related to the plasma display
@@ -267,11 +278,13 @@ Gotek USB floppy emulator (pictured):
 - "You dont really need a video driver for your Paradise PVGA1 (?) because these Toshiba models do have - although indeed having one of the first Paradise SVGA compatible chipsets - only 256kb of video RAM, iirc. which means youre limited to a max of 640x480x16 at max, if I am not mistaken."
 
 
-
-
 ## I/O card
 
-- Note - system will not POST without this card present.
+- System will NOT POST without this card present
+
+- Display will NOT power on without this card present
+
+- System will emit 4 short beeps and 2 long beeps if card is not installed
 
 ![image](https://user-images.githubusercontent.com/38451588/138082561-74206daf-6a7a-4af4-8532-e851730fa627.png)
 
@@ -298,6 +311,8 @@ Gotek USB floppy emulator (pictured):
 | ![image](https://user-images.githubusercontent.com/38451588/166194285-94945955-994a-4e25-9a60-614c29131673.png) | Expansion box card ? | |
 | ![image](https://user-images.githubusercontent.com/38451588/183807329-98d5fe1e-9f39-43be-a451-fe66d80401e9.png) | ConventionalMemories' 3inOneder card | An XT-IDE card that replaces the HDD with a CF card, includes a soundcard and gameport (https://old.reddit.com/r/retrobattlestations/comments/n8ilxg/all_the_features_my_toshiba_was_missing_on_one/) |
 | ![image](https://user-images.githubusercontent.com/38451588/185272409-c709a88d-09d0-45aa-aa4e-4a1100b25992.png) | LAN card | | 
+| ![image](https://user-images.githubusercontent.com/38451588/185744770-1d88f1a8-ad14-4935-803e-19d718c33864.png)
+
 
 
 Modem
