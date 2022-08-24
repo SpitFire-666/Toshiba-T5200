@@ -405,3 +405,10 @@ http://www.le-grenier-informatique.fr/pages/les-telechargements/utilitaires.html
 https://xtideuniversalbios.org/
 
 https://forum.vcfed.org/index.php?threads/toshiba-t5200-100-with-cp30174e.52335/#post-641502
+
+
+# SCREWS
+
+Screen - bottom/hinge: 2x 10mm
+Screen - top (under rubber pads) 2x 8mm
+Plasma frame: 4x 10mm
