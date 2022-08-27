@@ -392,6 +392,18 @@ https://www.youtube.com/watch?v=PPWLVBK-W3Y
 https://www.youtube.com/watch?v=3rmI2FAk5Ic
 
 
+# FAQs
+
+## What's the max resolution (external monitor)?
+
+## How does the A/B/PRT switch work?
+
+## How to change combination lock code?
+
+## Why are many games/MS-DOS "letterboxed", leaving the top and bottom of the screen unused?
+
+
+
 # Photos
 
 - I've taken a bunch of nice, big photos of the guts of this machine here:
