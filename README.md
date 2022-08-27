@@ -402,6 +402,14 @@ https://www.youtube.com/watch?v=3rmI2FAk5Ic
 
 ## Why are many games/MS-DOS "letterboxed", leaving the top and bottom of the screen unused?
 
+## Can you use another video card?
+
+Yes, you can plug in any ISA video card (not sure if this disables the plasma/onboard VGA card though?)
+
+## Can I upgrade the video RAM?
+
+Maybe? I believe the internal display's video RAM is on the mainboard. You might be able to replace the RAM chips for external display on the HGRS board.
+
 ## Can it run DOOM?
 
 Yes. But very slowly 🐌. Upgrading the CPU will help, and I recomment FastDOOM - a port of DOOM that's optimised to be as fast as possible on old machines: https://github.com/viti95/FastDoom/
