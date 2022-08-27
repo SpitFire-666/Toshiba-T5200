@@ -402,6 +402,11 @@ https://www.youtube.com/watch?v=3rmI2FAk5Ic
 
 ## Why are many games/MS-DOS "letterboxed", leaving the top and bottom of the screen unused?
 
+## Can it run DOOM?
+
+Yes. But very slowly 🐌. Upgrading the CPU will help, and I recomment FastDOOM - a port of DOOM that's optimised to be as fast as possible on old machines: https://github.com/viti95/FastDoom/
+
+Note: DOOM 2 has a hard RAM requirement (8MB I think)
 
 
 # Photos
