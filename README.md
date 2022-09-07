@@ -434,6 +434,6 @@ https://forum.vcfed.org/index.php?threads/toshiba-t5200-100-with-cp30174e.52335/
 
 # SCREWS
 
-Screen - bottom/hinge: 2x 10mm
-Screen - top (under rubber pads) 2x 8mm
-Plasma frame: 4x 10mm
+- Screen - bottom/hinge: 2x 10mm
+- Screen - top (under rubber pads) 2x 8mm
+- Plasma frame: 4x 10mm
