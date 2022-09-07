@@ -352,12 +352,12 @@ Quite often in these screens this may be a "cold solder" ( https://en.wikipedia.
 | Number | Voltage | Capacitance |
 |-|-|-|
 | C2 | 250v |3.3uF |
-|C6|||
-|C7|||
+|C6|?|?|
+|C7|?|?|
 |C9| 16v| 47uF|
-|C10|||
-| C15| 
-| C32 | ? | ? |
+|C10|?|?|
+| C15| 16v | 47uF | 
+| C32 | 16v | 47uF |
 | C36 | 250v |3.3uF |
 |C37| 250v | 1uF |
 | C38 | 250v | 1uF |
