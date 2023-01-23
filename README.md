@@ -140,6 +140,8 @@ https://www.iclocator.com/rfq.html/-5405EDC5-0471-4E05-9AC9-37B072077022?pagenam
 
 https://old.pinouts.ru/Memory/simm_40pin_pinout.shtml 
 
+https://forum.vcfed.org/index.php?threads/creating-a-bmp-image-thats-viewable-in-windows-3-1.66758/
+
 
 # Motherboard/Mainboard
 
