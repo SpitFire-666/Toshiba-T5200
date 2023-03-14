@@ -308,12 +308,13 @@ Gotek USB floppy emulator (pictured):
 
 | Image | Expansion card | Comment |
 |-|-|-|
-| ![image](https://user-images.githubusercontent.com/38451588/159207603-7dcc1a33-68be-425c-9f1a-b8186de08296.png) | Modem | |
+ | ![image](https://user-images.githubusercontent.com/38451588/159207603-7dcc1a33-68be-425c-9f1a-b8186de08296.png) | Modem | MultiTech MT224TL   2400/1200/300-BPS, INTERNAL CARD MODEM FOR TOSHIBA T3100, T3100/20 & T5100 COMPUTERS |
 | ![image](https://user-images.githubusercontent.com/38451588/183251788-dd848e97-bbee-481f-85a4-bac94d44a8db.png) | Toshiba Expansion box connector | |
 | ![image](https://user-images.githubusercontent.com/38451588/166194285-94945955-994a-4e25-9a60-614c29131673.png) | Expansion box card ? | |
 | ![image](https://user-images.githubusercontent.com/38451588/183807329-98d5fe1e-9f39-43be-a451-fe66d80401e9.png) | ConventionalMemories' 3inOneder card | An XT-IDE card that replaces the HDD with a CF card, includes a soundcard and gameport (https://old.reddit.com/r/retrobattlestations/comments/n8ilxg/all_the_features_my_toshiba_was_missing_on_one/) |
 | ![image](https://user-images.githubusercontent.com/38451588/185272409-c709a88d-09d0-45aa-aa4e-4a1100b25992.png) | LAN card | | 
-| ![image](https://user-images.githubusercontent.com/38451588/185744770-1d88f1a8-ad14-4935-803e-19d718c33864.png)
+| ![image](https://user-images.githubusercontent.com/38451588/185744770-1d88f1a8-ad14-4935-803e-19d718c33864.png) | CF XT-IDE card | by ConventionalMemories |
+| ![image](https://user-images.githubusercontent.com/38451588/224875165-c8197a92-cf1d-4948-aea0-54d3bb9902b1.png) | Modem | Holmes Microsystems Inc |
 
 
 
