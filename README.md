@@ -403,6 +403,8 @@ https://www.youtube.com/watch?v=3rmI2FAk5Ic
 
 ## How to change combination lock code?
 
+1. 
+
 ## Why are many games/MS-DOS "letterboxed", leaving the top and bottom of the screen unused?
 
 ## Can you use another video card?
@@ -435,8 +437,14 @@ https://xtideuniversalbios.org/
 https://forum.vcfed.org/index.php?threads/toshiba-t5200-100-with-cp30174e.52335/#post-641502
 
 
-# SCREWS
+# 🔩 SCREWS / DISASSEMBLY
 
 - Screen - bottom/hinge: 2x 10mm
 - Screen - top (under rubber pads) 2x 8mm
 - Plasma frame: 4x 10mm
+
+Accessing RAM/CPU/FPU/BIOS/PC Speaker
+
+- Remove 4x 8mm screws from base, along front of machine
+- Wiggle keyboard to release it
+- Remove 2x 10mm screws to remove the keyboard plate
