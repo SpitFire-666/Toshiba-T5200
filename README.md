@@ -59,12 +59,7 @@ PC001, PC002: 0N3105
 
 ![image](https://user-images.githubusercontent.com/38451588/185385205-52e3ffdf-55d4-4bd5-9bd3-9847bbb68ee7.png)
 
-![image](https://user-images.githubusercontent.com/38451588/185744510-58be104c-c2eb-46f3-9ce3-6eb6655b5160.png)
-
-![image](https://user-images.githubusercontent.com/38451588/185744543-9684afc4-2e03-473a-a1db-0c2e8e82c2bb.png)
-
 ![image](https://user-images.githubusercontent.com/38451588/185744681-1524ec4d-1187-4b85-a13e-b440e8a9f7df.png)
-
 
 
 ### BIOS chip
