@@ -27,13 +27,12 @@
 | ![image](https://user-images.githubusercontent.com/38451588/183250781-ca9b7102-303c-4637-8970-930b2092a015.png) | ![image](https://user-images.githubusercontent.com/38451588/181877833-a95827aa-a50f-4874-9c5b-3b6e909c87cd.png) | Display/lid | Lid is fatter on the T5200C |
 | | | LCD display is smaller than the plasma (10.4" vs 11.5") |
 
-# Maintenance Manual
+# 📖 Maintenance Manual
 
 http://www.minuszerodegrees.net/manuals/Toshiba/Other/Toshiba%20T5200%20-%20Maintenance%20Manual.pdf
 
-# Power Supply
+# 🔌 Power Supply
 P/N: 5200-0010 
-
 
 ![image](https://user-images.githubusercontent.com/38451588/129731104-cbda1bd7-740c-4aaa-bf04-e68c6f322636.png)
 
@@ -69,7 +68,7 @@ PC001, PC002: 0N3105
 ![image](https://user-images.githubusercontent.com/38451588/129731323-b3285d0e-eee0-4757-96bb-07222fd3d0ee.png)
 
 
-###  CMOS Battery
+### 🔋 CMOS Battery
 
 - I replaced mine with a 3V CR2032 battery (with battery holder) and diode (if you're worried about the machine trying to "charge" the battery).
 
@@ -220,7 +219,7 @@ Options:
  Drive Overlay software is a program that sits in the boot sector and reconfigures the drive before DOS starts.
  
 
-# Floppy Disk Drive (FDD)
+# 💾 Floppy Disk Drive (FDD)
 
 - 26-pin (non-standard) FDD connector, which carries data + power
 - These drives are prone to failure, and rarely work anymore
@@ -242,12 +241,14 @@ Gotek USB floppy emulator (pictured):
 
 - Adapters like this may also work:
 
+https://floppyemulator.com/products/34-26-pin-flat-cable-adaptor/
+
 ![image](https://user-images.githubusercontent.com/38451588/150640288-59cf68aa-cac1-4da7-9a77-56a8377ee057.png)
 
 
 # Display
 
-## Orange Gas Plasma Display (T5200, T5200/100, T5200/200) 
+## 🟧 Orange Gas Plasma Display (T5200, T5200/100, T5200/200) 
 
 
 - Display Area: 9.1"W x 6.8"H; 11.5"  
@@ -286,7 +287,7 @@ Gotek USB floppy emulator (pictured):
 ![image](https://user-images.githubusercontent.com/38451588/138082561-74206daf-6a7a-4af4-8532-e851730fa627.png)
 
 
-# Combination Lock
+# 🔐 Combination Lock
 
 # Fans / Cooling
 
@@ -310,7 +311,6 @@ Gotek USB floppy emulator (pictured):
 | ![image](https://user-images.githubusercontent.com/38451588/185272409-c709a88d-09d0-45aa-aa4e-4a1100b25992.png) | LAN card | | 
 | ![image](https://user-images.githubusercontent.com/38451588/185744770-1d88f1a8-ad14-4935-803e-19d718c33864.png) | CF XT-IDE card | by ConventionalMemories |
 | ![image](https://user-images.githubusercontent.com/38451588/224875165-c8197a92-cf1d-4948-aea0-54d3bb9902b1.png) | Modem | Holmes Microsystems Inc |
-
 
 
 Modem
@@ -417,13 +417,13 @@ Yes. But very slowly 🐌. Upgrading the CPU will help, and I recomment FastDOOM
 Note: DOOM 2 has a hard RAM requirement (8MB I think)
 
 
-# Photos
+# 🖼️ Photos
 
 - I've taken a bunch of nice, big photos of the guts of this machine here:
 
 https://photos.app.goo.gl/ahrCAmGZybXRYxjD6
 
-# Links
+# 🔗 Links
 
 http://www.le-grenier-informatique.fr/pages/les-telechargements/utilitaires.html
  
@@ -432,7 +432,9 @@ https://xtideuniversalbios.org/
 https://forum.vcfed.org/index.php?threads/toshiba-t5200-100-with-cp30174e.52335/#post-641502
 
 
-# 🔩 SCREWS / DISASSEMBLY
+# 🪛 DISASSEMBLY
+
+## 🔩 SCREWS
 
 - Screen - bottom/hinge: 2x 10mm
 - Screen - top (under rubber pads) 2x 8mm
