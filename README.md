@@ -209,8 +209,6 @@ https://texelec.com/product/lo-tech-xt-cf-lite-rev-2/
 - Set the IO_ADDR to 300H
 - Prepare a CF card (install MS-DOS in VirtualBox, convert the VDI to .IMG, use Win32DiskImager to write to the CF card
 
-
-
 Options:
 - fire up the T5200 and go in to the BIOS setup and see what hard drive options you have - write them down - and buy a matching Conner CP series IDE drive.
 - write the AT version of XTIDE to a boot ROM and configure it in a network card, set the T5200 to no hard drive, and install any generic IDE hard drive.
@@ -378,6 +376,15 @@ Quite often in these screens this may be a "cold solder" ( https://en.wikipedia.
 |C12|||
 
 ## Power Supply
+
+
+# Software
+
+|-|-|-|
+|name | details | other |
+| LXPic | | lxpic /c /g8 /y |
+
+
 
 # Media appearances
 
