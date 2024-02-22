@@ -297,6 +297,7 @@ https://floppyemulator.com/products/34-26-pin-flat-cable-adaptor/
 
 # Rear Expansion Slot
 
+- Connection is ISA but in a non-standard layout
 - Often unpopulated, but modems were the most common expansion. I've also seen parallel ports.
 - The interface connector for the mainboard is made by KEL and 3m makes compatible connectors as well. Part numbers: KEL 8801-060-170L-F or 3M P50-060S-RR1-EA 
 
@@ -309,6 +310,7 @@ https://floppyemulator.com/products/34-26-pin-flat-cable-adaptor/
 | ![image](https://user-images.githubusercontent.com/38451588/185272409-c709a88d-09d0-45aa-aa4e-4a1100b25992.png) | LAN card | | 
 | ![image](https://user-images.githubusercontent.com/38451588/185744770-1d88f1a8-ad14-4935-803e-19d718c33864.png) | CF XT-IDE card | by ConventionalMemories |
 | ![image](https://user-images.githubusercontent.com/38451588/224875165-c8197a92-cf1d-4948-aea0-54d3bb9902b1.png) | Modem | Holmes Microsystems Inc |
+| ![image](https://github.com/SpitFire-666/Toshiba-T5200/assets/38451588/3858ac23-4540-4666-9d55-6a50023b4282) | Arctic Systems SynPhonix speech synthesizer | |
 
 
 Modem
