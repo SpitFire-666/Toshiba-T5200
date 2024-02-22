@@ -311,6 +311,8 @@ https://floppyemulator.com/products/34-26-pin-flat-cable-adaptor/
 | ![image](https://user-images.githubusercontent.com/38451588/185744770-1d88f1a8-ad14-4935-803e-19d718c33864.png) | CF XT-IDE card | by ConventionalMemories |
 | ![image](https://user-images.githubusercontent.com/38451588/224875165-c8197a92-cf1d-4948-aea0-54d3bb9902b1.png) | Modem | Holmes Microsystems Inc |
 | ![image](https://github.com/SpitFire-666/Toshiba-T5200/assets/38451588/3858ac23-4540-4666-9d55-6a50023b4282) | Arctic Systems SynPhonix speech synthesizer | |
+| ![image](https://github.com/SpitFire-666/Toshiba-T5200/assets/38451588/94610f8d-a277-4ace-9b2a-9aa70d8ca171) ![image](https://github.com/SpitFire-666/Toshiba-T5200/assets/38451588/cc9a17ec-f56c-4061-ab9e-3fa8c92f82e2) | Modem | Toshiba modem (8-bit?) |
+
 
 
 Modem
